@@ -1,0 +1,22 @@
+{
+  "name": "medusajs-premier-bio-labs",
+  "version": "1.0.0",
+  "description": "Medusa.js with Premier Bio Labs peptide integration",
+  "scripts": {
+    "setup": "./start-local.sh",
+    "backend": "cd backend && npm run dev",
+    "frontend": "cd storefront && npm run dev:local",
+    "dev": "concurrently \"npm run backend\" \"npm run frontend\"",
+    "seed": "cd backend && npx medusa exec ./src/scripts/seed-all.ts",
+    "seed:peptides": "cd backend && npx medusa exec ./src/scripts/seed-peptides.ts",
+    "test:integration": "bash tasks/premier-bio-labs-integration/test-integration.sh",
+    "db:migrate": "cd backend && npx medusa db:migrate",
+    "db:setup": "cd backend && npx medusa db:setup"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "dependencies": {
+    "tailwindcss": "^4.1.14"
+  }
+}

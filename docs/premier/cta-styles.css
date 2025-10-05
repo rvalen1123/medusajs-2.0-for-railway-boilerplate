@@ -1,0 +1,64 @@
+:root {
+  --color-primary: #007A63;
+  --color-primary-base: #009F7F;
+  --color-bg: #FAFAFA;
+  --color-surface: #FFFFFF;
+  --color-text: #222222;
+  --color-muted: #868686;
+  --radius-md: 8px;
+  --shadow-md: 0 4px 8px rgba(0,0,0,0.08);
+}
+
+.btn {
+  -webkit-appearance: none;
+  appearance: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px; /* mobile target */
+  padding: 12px 20px;
+  border-radius: var(--radius-md);
+  border: 1px solid transparent;
+  font: 600 16px/1.2 'Open Sans', system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color .2s ease, color .2s ease, box-shadow .2s ease, transform .05s ease;
+}
+
+.btn--primary {
+  background-color: var(--color-primary);
+  color: #fff;
+}
+.btn--primary:hover {
+  background-color: #006F59;
+}
+.btn--primary:active {
+  background-color: #00624F;
+  transform: translateY(1px);
+}
+
+.btn--secondary {
+  background-color: var(--color-surface);
+  color: var(--color-primary);
+  border-color: var(--color-primary);
+}
+.btn--secondary:hover {
+  background-color: #F3F7F6;
+}
+.btn--secondary:active {
+  background-color: #E6F0EE;
+  transform: translateY(1px);
+}
+
+.btn:focus-visible {
+  outline: 3px solid #1473E6;
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .btn {
+    transition: none;
+  }
+}
+
+

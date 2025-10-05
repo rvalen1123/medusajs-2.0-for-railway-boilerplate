@@ -1,0 +1,209 @@
+[
+  {
+    "name": "BPC-157",
+    "handle": "bpc-157",
+    "sku": "PBL-BPC-157",
+    "price": 17.99,
+    "short_description": "Body Protection Compound for tissue repair research",
+    "full_description": "BPC-157 is a pentadecapeptide used in research for tissue repair and recovery studies.",
+    "categories": [
+      "Research Peptides"
+    ],
+    "variants": [
+      {
+        "size": "5mg",
+        "price": 17.99,
+        "sku": "PBL-BPC-5MG",
+        "in_stock": true
+      }
+    ],
+    "specifications": {
+      "Purity": ">98%",
+      "Molecular Formula": "C62H98N16O22",
+      "Molecular Weight": "1419.53 g/mol",
+      "Storage": "Store at -20\u00b0C"
+    },
+    "images": []
+  },
+  {
+    "name": "GHK-Cu",
+    "handle": "ghk-cu",
+    "sku": "PBL-GHK-CU",
+    "price": 22.99,
+    "short_description": "Copper peptide for skin and tissue research",
+    "full_description": "GHK-Cu is a copper-binding tripeptide studied for tissue remodeling and skin research.",
+    "categories": [
+      "Research Peptides"
+    ],
+    "variants": [
+      {
+        "size": "50mg",
+        "price": 22.99,
+        "sku": "PBL-GHK-50MG",
+        "in_stock": true
+      }
+    ],
+    "specifications": {
+      "Purity": ">98%",
+      "Molecular Formula": "C14H24N6O4Cu",
+      "Molecular Weight": "403.93 g/mol",
+      "Storage": "Store at -20\u00b0C"
+    },
+    "images": []
+  },
+  {
+    "name": "Tesamorelin",
+    "handle": "tesamorelin",
+    "sku": "PBL-TESA",
+    "price": 39.99,
+    "short_description": "Growth hormone-releasing hormone analog for research",
+    "full_description": "Tesamorelin is a synthetic peptide analog of growth hormone-releasing hormone.",
+    "categories": [
+      "Research Peptides"
+    ],
+    "variants": [
+      {
+        "size": "10mg",
+        "price": 39.99,
+        "sku": "PBL-TESA-10MG",
+        "in_stock": true
+      }
+    ],
+    "specifications": {
+      "Purity": ">98%",
+      "Storage": "Store at -20\u00b0C"
+    },
+    "images": []
+  },
+  {
+    "name": "GLP-2 (T*)",
+    "handle": "glp-2-t",
+    "sku": "PBL-GLP2T",
+    "price": 99.99,
+    "short_description": "Glucagon-like peptide-2 for metabolic research",
+    "full_description": "GLP-2 is studied for intestinal growth and nutrient absorption research.",
+    "categories": [
+      "Research Peptides",
+      "Metabolic Research"
+    ],
+    "variants": [
+      {
+        "size": "30mg",
+        "price": 99.99,
+        "sku": "PBL-GLP2T-30MG",
+        "in_stock": true
+      }
+    ],
+    "specifications": {
+      "Purity": ">98%",
+      "Storage": "Store at -20\u00b0C"
+    },
+    "images": []
+  },
+  {
+    "name": "GLP-3 (R*)",
+    "handle": "glp-3-r",
+    "sku": "PBL-GLP3R",
+    "price": 89.99,
+    "short_description": "Research-grade GLP-3 agonist",
+    "full_description": "GLP-3 (R*) is used in metabolic and diabetes research studies.",
+    "categories": [
+      "Research Peptides",
+      "Metabolic Research"
+    ],
+    "variants": [
+      {
+        "size": "10mg",
+        "price": 89.99,
+        "sku": "PBL-GLP3R-10MG",
+        "in_stock": true
+      },
+      {
+        "size": "20mg",
+        "price": 134.99,
+        "sku": "PBL-GLP3R-20MG",
+        "in_stock": true
+      }
+    ],
+    "specifications": {
+      "Purity": ">98%",
+      "Storage": "Store at -20\u00b0C"
+    },
+    "images": []
+  },
+  {
+    "name": "NAD+",
+    "handle": "nad-plus",
+    "sku": "PBL-NAD",
+    "price": 149.99,
+    "short_description": "Nicotinamide adenine dinucleotide for cellular research",
+    "full_description": "NAD+ is a coenzyme studied for cellular metabolism and aging research.",
+    "categories": [
+      "Research Compounds",
+      "Anti-Aging Research"
+    ],
+    "variants": [
+      {
+        "size": "100mg",
+        "price": 149.99,
+        "sku": "PBL-NAD-100MG",
+        "in_stock": true
+      }
+    ],
+    "specifications": {
+      "Purity": ">99%",
+      "Molecular Formula": "C21H27N7O14P2",
+      "Molecular Weight": "663.43 g/mol",
+      "Storage": "Store at -20\u00b0C"
+    },
+    "images": []
+  },
+  {
+    "name": "StaRter Kit R",
+    "handle": "starter-kit-r",
+    "sku": "PBL-KIT-R",
+    "price": 159.99,
+    "short_description": "Research peptide starter kit",
+    "full_description": "Complete starter kit with essential research peptides and supplies.",
+    "categories": [
+      "Starter Kits"
+    ],
+    "variants": [
+      {
+        "size": "Kit",
+        "price": 159.99,
+        "sku": "PBL-KIT-R",
+        "in_stock": true
+      }
+    ],
+    "specifications": {
+      "Contents": "Multiple research peptides",
+      "Storage": "Store at -20\u00b0C"
+    },
+    "images": []
+  },
+  {
+    "name": "StarTer Kit T",
+    "handle": "starter-kit-t",
+    "sku": "PBL-KIT-T",
+    "price": 154.99,
+    "short_description": "Tissue research peptide starter kit",
+    "full_description": "Specialized kit for tissue repair and recovery research.",
+    "categories": [
+      "Starter Kits"
+    ],
+    "variants": [
+      {
+        "size": "Kit",
+        "price": 154.99,
+        "sku": "PBL-KIT-T",
+        "in_stock": true
+      }
+    ],
+    "specifications": {
+      "Contents": "Tissue-focused research peptides",
+      "Storage": "Store at -20\u00b0C"
+    },
+    "images": []
+  }
+]

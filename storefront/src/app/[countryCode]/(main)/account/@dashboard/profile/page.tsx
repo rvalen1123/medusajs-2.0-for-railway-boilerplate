@@ -7,7 +7,7 @@ import ProfileName from "@modules/account/components/profile-name"
 import ProfilePassword from "@modules/account/components/profile-password"
 
 import { notFound } from "next/navigation"
-import { listRegions } from "@lib/data/regions"
+import { listRegions } from "@lib/data/regions-woo"
 import { getCustomer } from "@lib/data/customer"
 
 export const metadata: Metadata = {

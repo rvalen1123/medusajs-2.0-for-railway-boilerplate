@@ -1,6 +1,6 @@
 import Product from "../product-preview"
-import { getRegion } from "@lib/data/regions"
-import { getProductsList } from "@lib/data/products"
+import { getRegion } from "@lib/data/regions-woo"
+import { getProductsList } from "@lib/data/products-woo"
 import { HttpTypes } from "@medusajs/types"
 
 type RelatedProductsProps = {

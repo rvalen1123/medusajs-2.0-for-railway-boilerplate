@@ -1,3 +1,4 @@
+/* eslint-disable */
 const excludedPaths = ["/checkout", "/account/*"]
 
 module.exports = {

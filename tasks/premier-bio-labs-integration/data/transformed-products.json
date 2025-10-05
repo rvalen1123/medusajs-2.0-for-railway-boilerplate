@@ -1,0 +1,622 @@
+[
+  {
+    "title": "BPC-157",
+    "subtitle": "Body Protection Compound - Tissue Repair Research",
+    "description": "BPC-157 is a pentadecapeptide used in research for tissue repair and recovery studies.",
+    "handle": "bpc-157",
+    "is_giftcard": false,
+    "status": "published",
+    "thumbnail": null,
+    "images": [],
+    "weight": 50,
+    "length": 5,
+    "height": 5,
+    "width": 2,
+    "origin_country": "US",
+    "hs_code": "2937290090",
+    "mid_code": "peptide",
+    "material": "Lyophilized Powder",
+    "metadata": {
+      "purity": ">98%",
+      "molecular_weight": "1419.53 g/mol",
+      "molecular_formula": "C62H98N16O22",
+      "cas_number": "Available upon request",
+      "storage": "Store at -20\u00b0C",
+      "form": "Lyophilized Powder",
+      "solubility": "Soluble in water",
+      "coa_available": true,
+      "third_party_tested": true,
+      "research_use_only": true,
+      "original_url": "",
+      "scraped_at": "2025-10-04T20:17:33.958884",
+      "sequence": "Gly-Glu-Pro-Pro-Pro-Gly-Lys-Pro-Ala-Asp-Asp-Ala-Gly-Leu-Val",
+      "amino_acids": 15,
+      "class": "Pentadecapeptide"
+    },
+    "categories": [
+      "Research Peptides"
+    ],
+    "tags": [
+      ">98% Purity",
+      "Third-Party Tested",
+      "USA Based",
+      "Same-Day Shipping",
+      "Recovery",
+      "Pentadecapeptide",
+      "Tissue Repair",
+      "5mg",
+      "COA Available",
+      "BPC-157",
+      "Research Grade"
+    ],
+    "type": "Research Peptide",
+    "variants": [
+      {
+        "title": "5mg",
+        "sku": "PBL-BPC-5MG",
+        "barcode": null,
+        "ean": null,
+        "upc": null,
+        "inventory_quantity": 100,
+        "allow_backorder": false,
+        "manage_inventory": true,
+        "requires_shipping": true,
+        "weight": 50,
+        "length": 5,
+        "height": 5,
+        "width": 2,
+        "prices": [
+          {
+            "currency_code": "usd",
+            "amount": 1798
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "GHK-Cu",
+    "subtitle": "Copper Peptide - Skin & Tissue Research",
+    "description": "GHK-Cu is a copper-binding tripeptide studied for tissue remodeling and skin research.",
+    "handle": "ghk-cu",
+    "is_giftcard": false,
+    "status": "published",
+    "thumbnail": null,
+    "images": [],
+    "weight": 50,
+    "length": 5,
+    "height": 5,
+    "width": 2,
+    "origin_country": "US",
+    "hs_code": "2937290090",
+    "mid_code": "peptide",
+    "material": "Lyophilized Powder",
+    "metadata": {
+      "purity": ">98%",
+      "molecular_weight": "403.93 g/mol",
+      "molecular_formula": "C14H24N6O4Cu",
+      "cas_number": "Available upon request",
+      "storage": "Store at -20\u00b0C",
+      "form": "Lyophilized Powder",
+      "solubility": "Soluble in water",
+      "coa_available": true,
+      "third_party_tested": true,
+      "research_use_only": true,
+      "original_url": "",
+      "scraped_at": "2025-10-04T20:17:33.959035",
+      "sequence": "Gly-His-Lys",
+      "amino_acids": 3,
+      "class": "Tripeptide",
+      "copper_complex": true
+    },
+    "categories": [
+      "Research Peptides"
+    ],
+    "tags": [
+      ">98% Purity",
+      "Third-Party Tested",
+      "USA Based",
+      "Same-Day Shipping",
+      "Tripeptide",
+      "50mg",
+      "Copper Peptide",
+      "COA Available",
+      "Skin Research",
+      "GHK-Cu",
+      "Research Grade"
+    ],
+    "type": "Research Peptide",
+    "variants": [
+      {
+        "title": "50mg",
+        "sku": "PBL-GHK-50MG",
+        "barcode": null,
+        "ean": null,
+        "upc": null,
+        "inventory_quantity": 100,
+        "allow_backorder": false,
+        "manage_inventory": true,
+        "requires_shipping": true,
+        "weight": 50,
+        "length": 5,
+        "height": 5,
+        "width": 2,
+        "prices": [
+          {
+            "currency_code": "usd",
+            "amount": 2299
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Tesamorelin",
+    "subtitle": "Growth Hormone-Releasing Hormone Analog",
+    "description": "Tesamorelin is a synthetic peptide analog of growth hormone-releasing hormone.",
+    "handle": "tesamorelin",
+    "is_giftcard": false,
+    "status": "published",
+    "thumbnail": null,
+    "images": [],
+    "weight": 50,
+    "length": 5,
+    "height": 5,
+    "width": 2,
+    "origin_country": "US",
+    "hs_code": "2937290090",
+    "mid_code": "peptide",
+    "material": "Lyophilized Powder",
+    "metadata": {
+      "purity": ">98%",
+      "molecular_weight": "See COA",
+      "molecular_formula": "See COA",
+      "cas_number": "Available upon request",
+      "storage": "Store at -20\u00b0C",
+      "form": "Lyophilized Powder",
+      "solubility": "Soluble in water",
+      "coa_available": true,
+      "third_party_tested": true,
+      "research_use_only": true,
+      "original_url": "",
+      "scraped_at": "2025-10-04T20:17:33.959084"
+    },
+    "categories": [
+      "Research Peptides"
+    ],
+    "tags": [
+      ">98% Purity",
+      "Third-Party Tested",
+      "USA Based",
+      "Same-Day Shipping",
+      "GHRH",
+      "Growth Hormone",
+      "10mg",
+      "COA Available",
+      "Tesamorelin",
+      "Research Grade"
+    ],
+    "type": "Research Peptide",
+    "variants": [
+      {
+        "title": "10mg",
+        "sku": "PBL-TESA-10MG",
+        "barcode": null,
+        "ean": null,
+        "upc": null,
+        "inventory_quantity": 100,
+        "allow_backorder": false,
+        "manage_inventory": true,
+        "requires_shipping": true,
+        "weight": 50,
+        "length": 5,
+        "height": 5,
+        "width": 2,
+        "prices": [
+          {
+            "currency_code": "usd",
+            "amount": 3999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "GLP-2 (T*)",
+    "subtitle": "Glucagon-Like Peptide-2 - Intestinal Research",
+    "description": "GLP-2 is studied for intestinal growth and nutrient absorption research.",
+    "handle": "glp-2-t",
+    "is_giftcard": false,
+    "status": "published",
+    "thumbnail": null,
+    "images": [],
+    "weight": 50,
+    "length": 5,
+    "height": 5,
+    "width": 2,
+    "origin_country": "US",
+    "hs_code": "2937290090",
+    "mid_code": "peptide",
+    "material": "Lyophilized Powder",
+    "metadata": {
+      "purity": ">98%",
+      "molecular_weight": "See COA",
+      "molecular_formula": "See COA",
+      "cas_number": "Available upon request",
+      "storage": "Store at -20\u00b0C",
+      "form": "Lyophilized Powder",
+      "solubility": "Soluble in water",
+      "coa_available": true,
+      "third_party_tested": true,
+      "research_use_only": true,
+      "original_url": "",
+      "scraped_at": "2025-10-04T20:17:33.959211"
+    },
+    "categories": [
+      "Metabolic Compounds",
+      "Research Peptides"
+    ],
+    "tags": [
+      ">98% Purity",
+      "Third-Party Tested",
+      "GLP Agonist",
+      "USA Based",
+      "Same-Day Shipping",
+      "30mg",
+      "Diabetes Research",
+      "Metabolic Research",
+      "COA Available",
+      "Research Grade"
+    ],
+    "type": "Research Peptide",
+    "variants": [
+      {
+        "title": "30mg",
+        "sku": "PBL-GLP2T-30MG",
+        "barcode": null,
+        "ean": null,
+        "upc": null,
+        "inventory_quantity": 100,
+        "allow_backorder": false,
+        "manage_inventory": true,
+        "requires_shipping": true,
+        "weight": 50,
+        "length": 5,
+        "height": 5,
+        "width": 2,
+        "prices": [
+          {
+            "currency_code": "usd",
+            "amount": 9999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "GLP-3 (R*)",
+    "subtitle": "GLP-3 Receptor Agonist - Metabolic Research",
+    "description": "GLP-3 (R*) is used in metabolic and diabetes research studies.",
+    "handle": "glp-3-r",
+    "is_giftcard": false,
+    "status": "published",
+    "thumbnail": null,
+    "images": [],
+    "weight": 50,
+    "length": 5,
+    "height": 5,
+    "width": 2,
+    "origin_country": "US",
+    "hs_code": "2937290090",
+    "mid_code": "peptide",
+    "material": "Lyophilized Powder",
+    "metadata": {
+      "purity": ">98%",
+      "molecular_weight": "See COA",
+      "molecular_formula": "See COA",
+      "cas_number": "Available upon request",
+      "storage": "Store at -20\u00b0C",
+      "form": "Lyophilized Powder",
+      "solubility": "Soluble in water",
+      "coa_available": true,
+      "third_party_tested": true,
+      "research_use_only": true,
+      "original_url": "",
+      "scraped_at": "2025-10-04T20:17:33.959245"
+    },
+    "categories": [
+      "Metabolic Compounds",
+      "Research Peptides"
+    ],
+    "tags": [
+      ">98% Purity",
+      "Third-Party Tested",
+      "GLP Agonist",
+      "USA Based",
+      "Same-Day Shipping",
+      "20mg",
+      "Diabetes Research",
+      "10mg",
+      "Metabolic Research",
+      "COA Available",
+      "Research Grade"
+    ],
+    "type": "Research Peptide",
+    "options": [
+      {
+        "title": "Size",
+        "values": [
+          "10mg",
+          "20mg"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "title": "10mg",
+        "sku": "PBL-GLP3R-10MG",
+        "barcode": null,
+        "ean": null,
+        "upc": null,
+        "inventory_quantity": 100,
+        "allow_backorder": false,
+        "manage_inventory": true,
+        "requires_shipping": true,
+        "weight": 50,
+        "length": 5,
+        "height": 5,
+        "width": 2,
+        "prices": [
+          {
+            "currency_code": "usd",
+            "amount": 8999
+          }
+        ],
+        "options": [
+          {
+            "value": "10mg"
+          }
+        ]
+      },
+      {
+        "title": "20mg",
+        "sku": "PBL-GLP3R-20MG",
+        "barcode": null,
+        "ean": null,
+        "upc": null,
+        "inventory_quantity": 100,
+        "allow_backorder": false,
+        "manage_inventory": true,
+        "requires_shipping": true,
+        "weight": 50,
+        "length": 5,
+        "height": 5,
+        "width": 2,
+        "prices": [
+          {
+            "currency_code": "usd",
+            "amount": 13499
+          }
+        ],
+        "options": [
+          {
+            "value": "20mg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "NAD+",
+    "subtitle": "Nicotinamide Adenine Dinucleotide - Cellular Research",
+    "description": "NAD+ is a coenzyme studied for cellular metabolism and aging research.",
+    "handle": "nad-plus",
+    "is_giftcard": false,
+    "status": "published",
+    "thumbnail": null,
+    "images": [],
+    "weight": 50,
+    "length": 5,
+    "height": 5,
+    "width": 2,
+    "origin_country": "US",
+    "hs_code": "2937290090",
+    "mid_code": "peptide",
+    "material": "Lyophilized Powder",
+    "metadata": {
+      "purity": ">99%",
+      "molecular_weight": "663.43 g/mol",
+      "molecular_formula": "C21H27N7O14P2",
+      "cas_number": "Available upon request",
+      "storage": "Store at -20\u00b0C",
+      "form": "Lyophilized Powder",
+      "solubility": "Soluble in water",
+      "coa_available": true,
+      "third_party_tested": true,
+      "research_use_only": true,
+      "original_url": "",
+      "scraped_at": "2025-10-04T20:17:33.959276"
+    },
+    "categories": [
+      "Anti-Aging Research",
+      "Research Peptides"
+    ],
+    "tags": [
+      "100mg",
+      ">98% Purity",
+      "Third-Party Tested",
+      "USA Based",
+      "Same-Day Shipping",
+      "Cellular Energy",
+      "NAD+",
+      "Coenzyme",
+      "Anti-Aging",
+      "COA Available",
+      "Research Grade"
+    ],
+    "type": "Research Peptide",
+    "variants": [
+      {
+        "title": "100mg",
+        "sku": "PBL-NAD-100MG",
+        "barcode": null,
+        "ean": null,
+        "upc": null,
+        "inventory_quantity": 100,
+        "allow_backorder": false,
+        "manage_inventory": true,
+        "requires_shipping": true,
+        "weight": 50,
+        "length": 5,
+        "height": 5,
+        "width": 2,
+        "prices": [
+          {
+            "currency_code": "usd",
+            "amount": 14999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "StaRter Kit R",
+    "subtitle": "Complete Research Peptide Starter Kit",
+    "description": "Complete starter kit with essential research peptides and supplies.",
+    "handle": "starter-kit-r",
+    "is_giftcard": false,
+    "status": "published",
+    "thumbnail": null,
+    "images": [],
+    "weight": 50,
+    "length": 5,
+    "height": 5,
+    "width": 2,
+    "origin_country": "US",
+    "hs_code": "2937290090",
+    "mid_code": "peptide",
+    "material": "Lyophilized Powder",
+    "metadata": {
+      "purity": ">98%",
+      "molecular_weight": "See COA",
+      "molecular_formula": "See COA",
+      "cas_number": "Available upon request",
+      "storage": "Store at -20\u00b0C",
+      "form": "Lyophilized Powder",
+      "solubility": "Soluble in water",
+      "coa_available": true,
+      "third_party_tested": true,
+      "research_use_only": true,
+      "original_url": "",
+      "scraped_at": "2025-10-04T20:17:33.959292"
+    },
+    "categories": [
+      "Starter Kits"
+    ],
+    "tags": [
+      ">98% Purity",
+      "Third-Party Tested",
+      "USA Based",
+      "Same-Day Shipping",
+      "Bundle",
+      "Starter Kit",
+      "Value Pack",
+      "COA Available",
+      "Research Grade"
+    ],
+    "type": "Research Peptide",
+    "variants": [
+      {
+        "title": "Kit",
+        "sku": "PBL-KIT-R",
+        "barcode": null,
+        "ean": null,
+        "upc": null,
+        "inventory_quantity": 100,
+        "allow_backorder": false,
+        "manage_inventory": true,
+        "requires_shipping": true,
+        "weight": 50,
+        "length": 5,
+        "height": 5,
+        "width": 2,
+        "prices": [
+          {
+            "currency_code": "usd",
+            "amount": 15999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "StarTer Kit T",
+    "subtitle": "Tissue Research Peptide Kit",
+    "description": "Specialized kit for tissue repair and recovery research.",
+    "handle": "starter-kit-t",
+    "is_giftcard": false,
+    "status": "published",
+    "thumbnail": null,
+    "images": [],
+    "weight": 50,
+    "length": 5,
+    "height": 5,
+    "width": 2,
+    "origin_country": "US",
+    "hs_code": "2937290090",
+    "mid_code": "peptide",
+    "material": "Lyophilized Powder",
+    "metadata": {
+      "purity": ">98%",
+      "molecular_weight": "See COA",
+      "molecular_formula": "See COA",
+      "cas_number": "Available upon request",
+      "storage": "Store at -20\u00b0C",
+      "form": "Lyophilized Powder",
+      "solubility": "Soluble in water",
+      "coa_available": true,
+      "third_party_tested": true,
+      "research_use_only": true,
+      "original_url": "",
+      "scraped_at": "2025-10-04T20:17:33.959301"
+    },
+    "categories": [
+      "Starter Kits"
+    ],
+    "tags": [
+      ">98% Purity",
+      "Third-Party Tested",
+      "USA Based",
+      "Same-Day Shipping",
+      "Bundle",
+      "Starter Kit",
+      "Value Pack",
+      "COA Available",
+      "Research Grade"
+    ],
+    "type": "Research Peptide",
+    "variants": [
+      {
+        "title": "Kit",
+        "sku": "PBL-KIT-T",
+        "barcode": null,
+        "ean": null,
+        "upc": null,
+        "inventory_quantity": 100,
+        "allow_backorder": false,
+        "manage_inventory": true,
+        "requires_shipping": true,
+        "weight": 50,
+        "length": 5,
+        "height": 5,
+        "width": 2,
+        "prices": [
+          {
+            "currency_code": "usd",
+            "amount": 15499
+          }
+        ]
+      }
+    ]
+  }
+]

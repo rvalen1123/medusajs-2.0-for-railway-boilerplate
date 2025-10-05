@@ -1,0 +1,491 @@
+{
+  "design_system": {
+    "meta": {
+      "name": "Soma Clinical Wellness Design System",
+      "version": "1.0.0",
+      "type": "health_tech_ecommerce",
+      "brand_archetype": "clinical_trust_innovation",
+      "description": "A design system for clinical-grade wellness products with emphasis on trust, science, and accessibility"
+    },
+    
+    "design_principles": {
+      "primary": [
+        "Clinical credibility through clean, scientific aesthetic",
+        "Trust-building through transparency and data",
+        "Accessibility and clarity for medical information",
+        "Modern minimalism with warmth",
+        "Evidence-driven content hierarchy"
+      ],
+      "visual_strategy": "Balance sterile medical precision with approachable wellness branding"
+    },
+
+    "color_palette": {
+      "primary": {
+        "brand_primary": {
+          "value": "#[extracted-from-visual]",
+          "usage": "Primary CTA, brand elements, key interactive states",
+          "notes": "Likely a clinical blue or sophisticated neutral for trust"
+        },
+        "brand_secondary": {
+          "value": "#[extracted-from-visual]",
+          "usage": "Secondary actions, accents, highlights",
+          "notes": "Complementary color for visual hierarchy"
+        }
+      },
+      "neutrals": {
+        "background_primary": "#FFFFFF",
+        "background_secondary": "#F8F9FA",
+        "text_primary": "#1A1A1A",
+        "text_secondary": "#666666",
+        "text_tertiary": "#999999",
+        "border_light": "#E5E5E5",
+        "border_medium": "#CCCCCC"
+      },
+      "semantic": {
+        "success": "#10B981",
+        "warning": "#F59E0B",
+        "error": "#EF4444",
+        "info": "#3B82F6"
+      },
+      "notes": "Clinical color scheme emphasizes trust, cleanliness, and scientific credibility"
+    },
+
+    "typography": {
+      "font_families": {
+        "primary": {
+          "name": "[Sans-serif - likely Inter, SF Pro, or similar modern sans]",
+          "weights": [400, 500, 600, 700],
+          "usage": "Body text, UI elements, general content",
+          "fallback": "-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        },
+        "headings": {
+          "name": "[Same as primary or a refined serif for authority]",
+          "weights": [600, 700],
+          "usage": "Headlines, section headers, emphasized content"
+        }
+      },
+      
+      "scale": {
+        "h1": {
+          "size": "48px",
+          "line_height": "1.2",
+          "weight": 700,
+          "letter_spacing": "-0.02em",
+          "usage": "Hero headlines, primary page titles"
+        },
+        "h2": {
+          "size": "36px",
+          "line_height": "1.3",
+          "weight": 700,
+          "letter_spacing": "-0.01em",
+          "usage": "Section headlines"
+        },
+        "h3": {
+          "size": "28px",
+          "line_height": "1.4",
+          "weight": 600,
+          "usage": "Subsection headers, card titles"
+        },
+        "h4": {
+          "size": "20px",
+          "line_height": "1.5",
+          "weight": 600,
+          "usage": "Component headers, smaller sections"
+        },
+        "body_large": {
+          "size": "18px",
+          "line_height": "1.7",
+          "weight": 400,
+          "usage": "Intro paragraphs, important body text"
+        },
+        "body": {
+          "size": "16px",
+          "line_height": "1.6",
+          "weight": 400,
+          "usage": "Standard body text"
+        },
+        "body_small": {
+          "size": "14px",
+          "line_height": "1.5",
+          "weight": 400,
+          "usage": "Secondary information, captions"
+        },
+        "caption": {
+          "size": "12px",
+          "line_height": "1.4",
+          "weight": 400,
+          "usage": "Labels, metadata, fine print"
+        }
+      },
+
+      "notes": "Typography emphasizes readability for medical/scientific content with clear hierarchy"
+    },
+
+    "spacing_system": {
+      "scale": "8px base unit (or 4px for refined control)",
+      "values": {
+        "xs": "4px",
+        "sm": "8px",
+        "md": "16px",
+        "lg": "24px",
+        "xl": "32px",
+        "2xl": "48px",
+        "3xl": "64px",
+        "4xl": "96px",
+        "5xl": "128px"
+      },
+      "application": {
+        "component_padding": "16-24px",
+        "section_spacing": "64-96px",
+        "content_max_width": "1200-1440px",
+        "container_padding": "24px mobile, 48px desktop"
+      }
+    },
+
+    "layout_patterns": {
+      "grid_system": {
+        "columns": 12,
+        "gutter": "24px",
+        "breakpoints": {
+          "mobile": "0-639px",
+          "tablet": "640-1023px",
+          "desktop": "1024-1439px",
+          "wide": "1440px+"
+        }
+      },
+      
+      "common_layouts": [
+        {
+          "pattern": "hero_section",
+          "structure": "Full-width container with centered content, headline + subtext + CTA",
+          "characteristics": "Clean, spacious, clear hierarchy"
+        },
+        {
+          "pattern": "content_grid",
+          "structure": "3-column grid on desktop, 2-column tablet, 1-column mobile",
+          "usage": "Product cards, feature listings, benefit sections"
+        },
+        {
+          "pattern": "faq_accordion",
+          "structure": "Expandable Q&A format with clear questions and detailed answers",
+          "characteristics": "Medical information presented in digestible format"
+        },
+        {
+          "pattern": "trust_indicators",
+          "structure": "Statistics, certifications, badges in horizontal layout",
+          "usage": "Building credibility through data points"
+        }
+      ]
+    },
+
+    "component_library": {
+      "buttons": {
+        "primary": {
+          "style": "Solid background, rounded corners (likely 6-8px radius)",
+          "padding": "12px 24px (medium), 16px 32px (large)",
+          "typography": "600 weight, 14-16px size",
+          "states": {
+            "default": "Solid primary color",
+            "hover": "Slightly darker or elevated shadow",
+            "active": "Pressed state with subtle transform",
+            "disabled": "Reduced opacity (0.5-0.6)"
+          },
+          "usage": "Primary actions, Add to Cart, Get Started"
+        },
+        "secondary": {
+          "style": "Outline or ghost style with transparent background",
+          "border": "2px solid border",
+          "usage": "Secondary actions, Learn More"
+        },
+        "text_link": {
+          "style": "No background, underline on hover",
+          "usage": "Inline links, navigation items"
+        }
+      },
+
+      "cards": {
+        "product_card": {
+          "structure": "Image + Title + Description + Price + CTA",
+          "style": "Clean white background, subtle border or shadow",
+          "border_radius": "8-12px",
+          "padding": "20-24px",
+          "image_aspect": "1:1 or 4:3",
+          "hover_state": "Subtle elevation or border color change"
+        },
+        "info_card": {
+          "structure": "Icon/Image + Headline + Body text",
+          "usage": "Feature benefits, educational content blocks"
+        }
+      },
+
+      "navigation": {
+        "header": {
+          "structure": "Logo (left) + Navigation links (center/right) + CTA/Cart (right)",
+          "height": "64-80px",
+          "background": "White or transparent with blur on scroll",
+          "shadow": "Subtle shadow on scroll",
+          "sticky": true
+        },
+        "footer": {
+          "structure": "Multi-column layout with categories, links, social, legal",
+          "background": "Dark or neutral background",
+          "padding": "48-64px vertical"
+        }
+      },
+
+      "forms": {
+        "input_field": {
+          "height": "44-48px",
+          "border": "1px solid neutral, focus with primary color",
+          "border_radius": "6-8px",
+          "padding": "12-16px horizontal",
+          "label": "Above input or floating label pattern",
+          "error_state": "Red border + error message below"
+        },
+        "select_dropdown": {
+          "style": "Matches input styling",
+          "icon": "Chevron down indicator"
+        }
+      },
+
+      "badges_labels": {
+        "style": "Small pill-shaped containers",
+        "usage": "FDA-approved, Third-party tested, GMP compliant",
+        "colors": "Semantic colors or brand secondary",
+        "typography": "12px, 600 weight, uppercase or sentence case"
+      },
+
+      "icons": {
+        "style": "Outlined or minimal filled style",
+        "weight": "1.5-2px stroke width",
+        "size": "16px, 20px, 24px standard sizes",
+        "library": "Custom or from system like Heroicons, Lucide"
+      }
+    },
+
+    "content_patterns": {
+      "medical_credibility": {
+        "pattern": "Scientific claims backed by linked sources",
+        "structure": "Statement + [inline citation link] format",
+        "typography": "Body text with subtle link styling",
+        "example": "'FDA has categorized peptides as GRAS' with linked reference"
+      },
+      
+      "educational_content": {
+        "pattern": "Question-and-answer or definition format",
+        "structure": "Bold question followed by detailed explanation",
+        "spacing": "Generous vertical spacing between items",
+        "usage": "FAQ sections, product education"
+      },
+
+      "trust_signals": {
+        "elements": [
+          "Third-party testing badges",
+          "Certification logos (FDA, GMP, USP)",
+          "Purity percentages (>98%)",
+          "Quality assurance statements",
+          "Scientific methodology references"
+        ],
+        "placement": "Throughout content, especially near CTAs and product info"
+      },
+
+      "cta_patterns": {
+        "structure": "Clear value proposition + action button",
+        "positioning": "After educational content blocks",
+        "copy_style": "Action-oriented, benefit-focused",
+        "visual_hierarchy": "CTA button stands out clearly"
+      }
+    },
+
+    "ui_patterns": {
+      "filtering_browsing": {
+        "pattern": "Category selection + condition/symptom filters",
+        "structure": "Sidebar or top filters + results grid",
+        "interaction": "Real-time filtering or apply button pattern"
+      },
+
+      "accordion_expansion": {
+        "pattern": "Expandable content sections for dense information",
+        "interaction": "Click to expand, smooth animation",
+        "indicator": "Plus/minus or chevron icon",
+        "usage": "FAQs, product details, educational content"
+      },
+
+      "image_content_split": {
+        "pattern": "Image on one side, content on other (alternating)",
+        "ratio": "50/50 or 60/40 split",
+        "responsive": "Stack vertically on mobile"
+      }
+    },
+
+    "animation_motion": {
+      "principles": {
+        "style": "Subtle and professional, not playful",
+        "duration": "200-300ms for UI interactions, 400-600ms for transitions",
+        "easing": "ease-out for entries, ease-in-out for state changes"
+      },
+      
+      "common_animations": [
+        {
+          "element": "buttons",
+          "effect": "Subtle scale or color transition on hover",
+          "duration": "200ms"
+        },
+        {
+          "element": "cards",
+          "effect": "Elevation change or border highlight",
+          "duration": "250ms"
+        },
+        {
+          "element": "modals_overlays",
+          "effect": "Fade in background, slide up content",
+          "duration": "300ms"
+        },
+        {
+          "element": "accordion",
+          "effect": "Smooth height transition",
+          "duration": "300ms"
+        },
+        {
+          "element": "page_sections",
+          "effect": "Fade in on scroll (optional, subtle)",
+          "duration": "400ms"
+        }
+      ]
+    },
+
+    "imagery_media": {
+      "photography_style": {
+        "aesthetic": "Clean, clinical, professional",
+        "characteristics": [
+          "High-quality, well-lit product photography",
+          "White or neutral backgrounds for products",
+          "Lifestyle imagery showing wellness and vitality",
+          "Scientific/medical aesthetic where appropriate"
+        ]
+      },
+      
+      "image_treatments": {
+        "border_radius": "8-12px for content images",
+        "aspect_ratios": {
+          "product": "1:1 (square)",
+          "hero": "16:9 or 21:9",
+          "feature": "4:3 or 3:2"
+        },
+        "optimization": "WebP format, responsive srcset, lazy loading"
+      }
+    },
+
+    "accessibility": {
+      "requirements": [
+        "WCAG 2.1 AA compliance minimum",
+        "4.5:1 contrast ratio for body text",
+        "3:1 for large text and UI components",
+        "Focus visible states on all interactive elements",
+        "Semantic HTML structure",
+        "Alt text for all images",
+        "Keyboard navigation support",
+        "Screen reader friendly markup"
+      ],
+      
+      "focus_states": {
+        "style": "2-3px outline in primary color",
+        "offset": "2px from element",
+        "visibility": "Highly visible, not relying on color alone"
+      }
+    },
+
+    "responsive_behavior": {
+      "mobile_first": true,
+      
+      "breakpoint_adjustments": {
+        "mobile": {
+          "typography": "Slightly smaller scale (h1: 32-36px)",
+          "spacing": "Reduced section spacing (32-48px)",
+          "navigation": "Hamburger menu pattern",
+          "grids": "Single column layouts",
+          "padding": "16-24px container padding"
+        },
+        "tablet": {
+          "grids": "2-column where appropriate",
+          "navigation": "May remain full or hamburger",
+          "typography": "Medium scale"
+        },
+        "desktop": {
+          "grids": "3-4 columns",
+          "navigation": "Full horizontal navigation",
+          "typography": "Full scale",
+          "spacing": "Maximum spacing values"
+        }
+      }
+    },
+
+    "brand_voice": {
+      "characteristics": [
+        "Scientifically authoritative but approachable",
+        "Educational and informative",
+        "Trustworthy and transparent",
+        "Empowering and supportive",
+        "Professional without being cold"
+      ],
+      
+      "content_structure": {
+        "headlines": "Clear, benefit-focused, action-oriented",
+        "body": "Detailed but scannable, evidence-backed",
+        "ctas": "Direct and clear about next steps",
+        "medical_info": "Precise with sources/citations"
+      }
+    },
+
+    "implementation_notes": {
+      "tech_stack_recommendations": [
+        "Modern CSS with custom properties for theming",
+        "Component-based architecture (React, Vue, etc.)",
+        "Tailwind CSS or similar utility framework with custom config",
+        "Motion library like Framer Motion for animations",
+        "Next.js or similar for performance and SEO"
+      ],
+      
+      "design_tokens": {
+        "format": "CSS custom properties or JSON tokens",
+        "usage": "All colors, spacing, typography as variables",
+        "benefits": "Easy theming, consistent implementation"
+      },
+
+      "component_approach": {
+        "philosophy": "Atomic design methodology",
+        "structure": "Atoms → Molecules → Organisms → Templates",
+        "reusability": "Highly composable components",
+        "variants": "Props-based variations rather than separate components"
+      }
+    },
+
+    "ai_replication_instructions": {
+      "when_building_similar_designs": [
+        "Start with establishing design tokens (colors, typography, spacing)",
+        "Build component library from smallest to largest (buttons → cards → sections)",
+        "Maintain consistent spacing rhythm using 8px base unit",
+        "Apply clinical/professional aesthetic through color choices and typography",
+        "Use white space generously for clarity and focus",
+        "Implement trust signals prominently (badges, certifications, data)",
+        "Structure content with clear hierarchy (headline → subtext → CTA)",
+        "Ensure mobile-first responsive implementation",
+        "Add subtle, professional animations for polish",
+        "Prioritize accessibility in all interactive elements"
+      ],
+
+      "key_differentiators": {
+        "clinical_trust": "Use clean design, data-driven content, certification badges",
+        "scientific_credibility": "Citations, research links, technical specifications",
+        "accessibility": "Clear information hierarchy for medical content",
+        "conversion_focused": "Clear CTAs, simplified user flows, trust building"
+      },
+
+      "prompt_templates": {
+        "for_cursor_ai": "When implementing this design system, use a clinical health-tech aesthetic with emphasis on trust and scientific credibility. Apply a clean, modern design with generous white space, professional typography (likely sans-serif at 16px base), and subtle interactions. Components should follow an 8px spacing rhythm. Color palette emphasizes trust (blues/neutrals) with high contrast for accessibility. All product cards should include trust signals (certifications, testing data). FAQ sections use accordion patterns. Headers are sticky with subtle shadows. Maintain 4.5:1 contrast ratios minimum.",
+
+        "for_component_generation": "Create a [component name] following these guidelines: Use 8px spacing units, rounded corners (8px), primary color for main actions, 600 font-weight for emphasis. Include hover states with subtle elevation or color changes (200ms transition). Ensure WCAG AA compliance. Style should be clean and clinical, appropriate for health/wellness products."
+      }
+    }
+  }
+}

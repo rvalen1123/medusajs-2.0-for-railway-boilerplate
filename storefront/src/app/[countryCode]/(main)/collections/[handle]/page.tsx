@@ -4,8 +4,8 @@ import { notFound } from "next/navigation"
 import {
   getCollectionByHandle,
   getCollectionsList,
-} from "@lib/data/collections"
-import { listRegions } from "@lib/data/regions"
+} from "@lib/data/collections-woo"
+import { listRegions } from "@lib/data/regions-woo"
 import { StoreCollection, StoreRegion } from "@medusajs/types"
 import CollectionTemplate from "@modules/collections/templates"
 import { SortOptions } from "@modules/store/components/refinement-list/sort-products"

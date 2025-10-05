@@ -4,7 +4,7 @@ import { notFound } from "next/navigation"
 import AddressBook from "@modules/account/components/address-book"
 
 import { headers } from "next/headers"
-import { getRegion } from "@lib/data/regions"
+import { getRegion } from "@lib/data/regions-woo"
 import { getCustomer } from "@lib/data/customer"
 
 export const metadata: Metadata = {

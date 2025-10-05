@@ -1,4 +1,4 @@
-import { getProductsById } from "@lib/data/products"
+import { getProductsById } from "@lib/data/products-woo"
 import { HttpTypes } from "@medusajs/types"
 import ProductActions from "@modules/products/components/product-actions"
 
